@@ -2,7 +2,7 @@
 
 > **Multimodal search & recommender demo for the Netflix catalogue – powered by Sentence-Transformers, BLIP and Gradio.**
 
-Gradio app link [(https://huggingface.co/spaces/karouswissem/the_maze_RS)]
+### Gradio app link (https://huggingface.co/spaces/karouswissem/the_maze_RS)
 
 ---
 
